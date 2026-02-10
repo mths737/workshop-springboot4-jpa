@@ -1,4 +1,4 @@
-package com.example.courrse.entities;
+package com.example.course.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
